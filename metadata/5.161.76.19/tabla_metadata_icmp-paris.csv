@@ -1,0 +1,15 @@
+IP,HOP,AS,Geo,rDNS,ISP,Country,Region,City,Timezone,ASN_Info
+172.24.96.1,1,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+192.168.1.1,2,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+186.106.0.1,3,AS7418,"-33.4569,-70.6483",N/A,AS7418 TELEFÓNICA CHILE S.A.,Chile,Santiago Metropolitan,Santiago,N/A,N/A
+10.50.3.21,4,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10.50.3.10,5,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+213.140.39.160,6,AS12956,"-33.4569,-70.6483",N/A,AS12956 TELEFONICA GLOBAL SOLUTIONS SL,Spain,Madrid,Madrid,N/A,N/A
+176.52.248.55,7,AS12956,"25.7743,-80.1937",N/A,AS12956 TELEFONICA GLOBAL SOLUTIONS SL,Spain,Madrid,Madrid,N/A,N/A
+213.140.43.206,8,AS12956,"25.7743,-80.1937",N/A,AS12956 TELEFONICA GLOBAL SOLUTIONS SL,Spain,Madrid,Madrid,N/A,N/A
+94.142.107.213,9,AS12956,"25.7743,-80.1937",N/A,AS12956 TELEFONICA GLOBAL SOLUTIONS SL,Spain,Madrid,Madrid,N/A,N/A
+62.115.120.176,10,AS1299,"39.0437,-77.4875",ash-bb2-link.ip.twelve99.net,AS1299 Arelion Sweden AB,United States,Virginia,Ashburn,N/A,N/A
+62.115.123.125,11,AS1299,"39.0437,-77.4875",ash-b2-link.ip.twelve99.net,AS1299 Arelion Sweden AB,United States,Virginia,Ashburn,N/A,N/A
+62.115.56.201,12,AS1299,"39.0437,-77.4875",hetzner-ic-378288.ip.twelve99-cust.net,AS1299 Arelion Sweden AB,United States,Virginia,Ashburn,N/A,N/A
+5.161.0.86,13,AS213230,"38.8951,-77.0364",spine2.cloud1.ash.hetzner.com,AS213230 Hetzner Online GmbH,United States,Virginia,Ashburn,N/A,N/A
+5.161.9.171,15,AS213230,"39.0437,-77.4875",17780.your-cloud.host,AS213230 Hetzner Online GmbH,United States,Virginia,Ashburn,N/A,N/A

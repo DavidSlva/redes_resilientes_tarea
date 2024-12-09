@@ -1,0 +1,8 @@
+IP,HOP,AS,Geo,rDNS,ISP,Country,Region,City,Timezone,ASN_Info
+172.24.96.1,1,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+192.168.1.1,2,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+186.106.0.1,3,AS7418,"-33.4569,-70.6483",N/A,AS7418 TELEFÓNICA CHILE S.A.,Chile,Santiago Metropolitan,Santiago,N/A,N/A
+10.50.3.22,4,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5.53.3.75,6,AS12956,"25.7743,-80.1937",N/A,AS12956 TELEFONICA GLOBAL SOLUTIONS SL,Spain,Madrid,Madrid,N/A,N/A
+213.140.43.206,7,AS12956,"25.7743,-80.1937",N/A,AS12956 TELEFONICA GLOBAL SOLUTIONS SL,Spain,Madrid,Madrid,N/A,N/A
+213.46.186.17,8,AS6830,"52.2592,4.7597",us-mia01a-ri1-ae-5-0.aorta.net,AS6830 Liberty Global B.V.,The Netherlands,North Holland,Schiphol-Rijk,N/A,N/A
